@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background: linear-gradient(to right, transparent 25%, aqua 25%, aqua 75%, transparent 75%); */
+}
+.inner{
+    height:50%;
+    width: 50%;
+    background-color: #daeffc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+  .mybtn{
+    margin: 10px;
+    color: blue;
+    background-color:azure;
+  }
+  .myin{
+    background-color: azure;
+    color: black;
+  }
+.lists{
+    color:#006b99;
+}
+  
